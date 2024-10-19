@@ -34,8 +34,7 @@ while True:
         c.send("Not Found".encode())
 ```
 ## OUPUT - ARP:
-![Screenshot (80)](https://github.com/user-attachments/assets/f4e9ac50-56ca-4858-8045-dbd0460a9ba5)
-
+![Screenshot (80)](https://github.com/user-attachments/assets/5f43f4bf-3fd2-4606-a8b2-d19bbd436cca)
 
 ## PROGRAM - RARP:
 ```
@@ -48,7 +47,7 @@ while True:
     print ("MAC Address",s. recv(1024) . decode ())
 ```
 ## OUPUT -RARP:
-![Screenshot (79)](https://github.com/user-attachments/assets/fefb53f3-6d5a-4258-80fc-650158a3883a)
+![Screenshot (79)](https://github.com/user-attachments/assets/ec8a3c40-e24f-4c68-980b-a0802f254ed7)
 
 
 ## RESULT:
